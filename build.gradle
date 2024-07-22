@@ -15,6 +15,7 @@ dependencies {
     implementation("org.junit.jupiter:junit-jupiter:5.4.2")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.3.2")
     testImplementation("org.assertj:assertj-core:3.11.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0-RC")
 }
 
 test {
